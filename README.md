@@ -1,6 +1,6 @@
 # npmdoc-tslide
 
-#### api documentation for  [tslide (v1.5.0)](https://github.com/dominictarr/tslide)  [![npm package](https://img.shields.io/npm/v/npmdoc-tslide.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-tslide) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-tslide.svg)](https://travis-ci.org/npmdoc/node-npmdoc-tslide)
+#### basic api documentation for  [tslide (v1.5.0)](https://github.com/dominictarr/tslide)  [![npm package](https://img.shields.io/npm/v/npmdoc-tslide.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-tslide) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-tslide.svg)](https://travis-ci.org/npmdoc/node-npmdoc-tslide)
 
 #### Terminal SlideDeck (for backend devs)
 
